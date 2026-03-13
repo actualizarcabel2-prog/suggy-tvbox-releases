@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.0",
-  "versionCode": 1,
-  "date": "2026-03-13T09:29:48.848Z",
-  "changelog": "Versión inicial TV Box",
-  "apk_url": ""
+  "version": "v1.1.0",
+  "versionCode": 2,
+  "date": "2026-03-13T14:36:16.849Z",
+  "changelog": "CABEL Media Center — interfaz completa con películas, series, TV, addons y chat Suggy",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-tvbox-releases/releases/download/v1.1.0/suggy-tvbox.apk"
 }
